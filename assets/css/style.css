@@ -5557,7 +5557,7 @@ span.fill {
 <!-- ============================================================== -->*/
 
 .contact_area_three {
-    background: url(../images/resource/contact_bg.webp);
+    background: url(../images/pics/resource/contact-bg.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -5675,7 +5675,7 @@ span.fill {
 .contact-area-inner {
     background: #161616;
     padding: 0 0 120px;
-    background: url(../images/resource/world.jpg);
+    /* background: url(../images/resource/contact_bg.webp); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

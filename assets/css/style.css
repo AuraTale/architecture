@@ -5673,7 +5673,7 @@ span.fill {
 }
 
 .contact-area-inner {
-    background: #161616;
+    background: #ffff;
     padding: 0 0 120px;
     /* background: url(../images/resource/contact_bg.webp); */
     background-repeat: no-repeat;
@@ -5696,7 +5696,7 @@ span.fill {
 }
 
 .contact-area-inner .section-title.upper .sub-title h2 {
-    color: #fff;
+    color: #161616;
 }
 
 .contact-area-inner .form_box input {
